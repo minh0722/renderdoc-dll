@@ -1,0 +1,4 @@
+﻿  renderdoc_csharp.cpp
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+     Creating library F:\git\renderdoc-csharplib\x64\Release\renderdoc-csharplib.lib and object F:\git\renderdoc-csharplib\x64\Release\renderdoc-csharplib.exp
+  renderdoc-csharplib.vcxproj -> F:\git\renderdoc-csharplib\x64\Release\renderdoc-csharplib.dll
